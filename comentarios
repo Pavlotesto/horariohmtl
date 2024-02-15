@@ -1,0 +1,45 @@
+<!DOCTYPE html>:
+
+Este es un comando que especifica la versión de HTML que el documento está utilizando. En este caso, es HTML5.
+<html lang="es">:
+
+Este comando indica que el idioma del documento HTML es español ("es" representa español).
+<head>...</head>:
+
+Este elemento contiene metadatos del documento HTML, como el título de la página, enlaces a hojas de estilo y scripts, y otros datos que no se muestran directamente en el navegador.
+<style>...</style>:
+
+Este elemento define estilos CSS que se aplican al documento HTML. En este caso, se definen estilos para varios elementos, como encabezados, clases específicas y elementos de tabla.
+<meta charset="UTF-8">:
+
+Esta etiqueta especifica la codificación de caracteres utilizada en el documento, que en este caso es UTF-8, una codificación que incluye la mayoría de los caracteres escritos en cualquier idioma.
+<title>...</title>:
+
+Este elemento define el título de la página, que aparece en la pestaña del navegador o en los resultados de búsqueda.
+<table>...</table>:
+
+Este elemento define una tabla en HTML, que consta de filas y columnas.
+<caption>...</caption>:
+
+Este elemento define el título de la tabla, que se muestra encima de la tabla.
+<thead>...</thead>:
+
+Este elemento define el encabezado de la tabla, que generalmente contiene etiquetas de encabezado (th) que describen el contenido de cada columna.
+<tbody>...</tbody>:
+
+Este elemento define el cuerpo de la tabla, que contiene los datos de la tabla organizados en filas y columnas.
+<tr>...</tr>:
+
+Este elemento define una fila en una tabla.
+<th>...</th>:
+
+Este elemento define una celda de encabezado en una tabla, que proporciona información sobre el contenido de una columna o fila.
+<td>...</td>:
+
+Este elemento define una celda de datos en una tabla, que contiene la información real que se muestra en la tabla.
+<td rowspan="2">...</td>:
+
+Este atributo de rowspan en una celda indica cuántas filas debe ocupar esa celda en la tabla.
+<td colspan="5">...</td>:
+
+Este atributo de colspan en una celda indica cuántas columnas debe ocupar esa celda en la tabla.
